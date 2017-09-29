@@ -2,10 +2,10 @@
 <widget id="com.Tox.Reversal" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ToxReversal</name>
     <description>
-        A blank PhoneGap app.
+        Reversal Timer for Archers
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="symondavis@gmail.com" href="https://www.symondavis.pro">
+        Symon Davis
     </author>
     <content src="index.html" />
     <access origin="*" />
